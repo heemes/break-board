@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Enter the credentials"
+AuthUserFile "/home/webmagician480/.htpasswds/public_html/breakboard/public/admin/passwd"
+require valid-user

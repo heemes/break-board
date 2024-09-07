@@ -1,0 +1,3 @@
+<FilesMatch "^.*?public.*?$">
+SetHandler php7-script
+</FilesMatch>
